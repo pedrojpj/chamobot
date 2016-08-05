@@ -1,0 +1,10 @@
+{
+    "tokenSlack" : "xoxb-66551404868-RS77ShhdktLYQa37oADCXKer",
+    "db" : {
+        "name" : "chamobot",
+        "host" : "localhost",
+        "port" : "27017",
+        "user" : "",
+        "pass" : ""
+    }
+}
